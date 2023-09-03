@@ -1,7 +1,7 @@
 # Digit-Detection-with-Neural-Networks
 
 ## Overview:
-This code implements a Digit Detection system using a Deep Neural Network (DNN). It's designed to recognize hand-written digits from images. The code is written in Python and utilizes essential deep learning libraries. This project showcases your proficiency in computer vision and machine learning.
+This code implements a Digit Detection system using a Deep Neural Network (DNN). It's designed to recognize hand-written digits from images. The code is written in Python and utilizes essential deep-learning libraries. This project showcases your proficiency in computer vision and machine learning.
 
 ## Key Components
 
